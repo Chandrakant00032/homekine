@@ -45,7 +45,7 @@ nav ul li a:hover,a.active{
     height: calc(100vh - 80px);
     width:100%;
     object-fit: cover;
-    object-position: bottom;
+    object-position: center;
 }
 /* main .banner{
     height: 100vh;
